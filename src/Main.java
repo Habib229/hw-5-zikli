@@ -78,6 +78,5 @@ public class Main {
             k = j * l;
             System.out.println(j + "*" + l + "=" + k);
         }
-
     }
 }
