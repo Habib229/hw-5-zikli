@@ -79,5 +79,7 @@ public class Main {
             System.out.println(j + "*" + l + "=" + k);
         }
 
+        System.out.println();
+
     }
 }
